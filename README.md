@@ -13,7 +13,7 @@ The project provides two interfaces:
 * 🖥️ **CUI (Console User Interface)** – lightweight, terminal-based usage
 * 🪟 **GUI (Graphical User Interface)** – user-friendly visual interaction
 
-👉 File packing combines multiple files into one archive, while unpacking restores them using stored metadata and structure ([IJCRT][1])
+👉 File packing combines multiple files into one archive, while unpacking restores them using stored metadata and structure
 
 ---
 
@@ -82,7 +82,7 @@ File-Packer-Unpacker-with-Encryption/
 4. Encrypt data
 5. Store everything into a **single packed file**
 
-👉 Packed file acts like an archive containing metadata + encrypted data ([IJCRT][1])
+👉 Packed file acts like an archive containing metadata + encrypted data
 
 ---
 
